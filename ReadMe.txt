@@ -1,8 +1,6 @@
 Strategy Game Project
 
-Authors:
-- Tigran
-- Lilit
+Author:
 - Shahen
 
 Overview:
